@@ -123,8 +123,8 @@ pip install -r requirements.txt
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/aboodcs/SleepHealthAnalysis
+   cd SleepHealthAnalysis
    ```
 
 ## Conclusion

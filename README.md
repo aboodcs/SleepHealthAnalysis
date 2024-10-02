@@ -1,7 +1,3 @@
-### Enhanced README
-
----
-
 # Sleep Health and Lifestyle Analysis
 
 ## Table of Contents

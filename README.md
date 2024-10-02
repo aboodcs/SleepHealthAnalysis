@@ -18,7 +18,6 @@
 - [Requirements](#requirements)
 - [How to Run the Code](#how-to-run-the-code)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Overview
 
